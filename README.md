@@ -1,5 +1,5 @@
 ![Web and Native app developer](https://github.com/RuddraNickBiswas/RuddraNickBiswas/blob/main/pt021uel8t0w2f7rkamn.jpg?raw=true)
-### Ruddra Nick Biswas
+# Ruddra Nick Biswas
 
 I am Ruddra from Bangladesh . and I do web development and native mobile app development on based on React JS . I really enjoy learning languages and frameworks. I like React and React Native, as well as work in WordPress...
 
