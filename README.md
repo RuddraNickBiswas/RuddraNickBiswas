@@ -4,6 +4,10 @@
 I am Ruddra from Bangladesh . and I do web development and native mobile app development on based on React JS . I really enjoy learning languages and frameworks. I like React and React Native, as well as work in WordPress...
 
 ## Skills and Expricnce
+Games Development_______!
+* ✔ C#
+* ♡ Unity 2D & 3D
+Web Development_________!
 * ⚛ React
 * 📱 React Native
 * 💻 HTML , CSS , JS
