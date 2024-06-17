@@ -1,27 +1,27 @@
 ![Web and Native app developer](https://github.com/RuddraNickBiswas/RuddraNickBiswas/blob/main/pt021uel8t0w2f7rkamn.jpg?raw=true)
 # Ruddra Nick Biswas
 
-#About Me
+# About Me
 
 Hello, I'm Ruddra from Bangladesh, passionate about web and mobile app development. With over [number] years of experience, I specialize in crafting solutions with modern technologies.
 Skills and Experience
 
-#Web Development
+# Web Development
 
     ⚛️ React (including React Native)
     🌐 HTML, CSS, JavaScript
     🛠 Laravel, Livewire, Filament, Tailwind CSS
 
-#Mobile Development
+# Mobile Development
 
     📱 React Native
 
-#Game Development
+# Game Development
 
     ✔️ C#
     ♡ Unity 2D & 3D
 
-#Recent Focus
+# Recent Focus
 
 Currently, I'm deeply engaged in Laravel development, utilizing Livewire, Filament, and Tailwind CSS to create robust, functional applications. I thrive on learning new languages and frameworks to enhance my skills continuously.
 
