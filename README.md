@@ -1,18 +1,29 @@
 ![Web and Native app developer](https://github.com/RuddraNickBiswas/RuddraNickBiswas/blob/main/pt021uel8t0w2f7rkamn.jpg?raw=true)
 # Ruddra Nick Biswas
 
-I am Ruddra from Bangladesh . and I do web development and native mobile app development on based on React JS . I really enjoy learning languages and frameworks. I like React and React Native, as well as work in WordPress...
+#About Me
 
-## Skills and Expricnce
+Hello, I'm Ruddra from Bangladesh, passionate about web and mobile app development. With over [number] years of experience, I specialize in crafting solutions with modern technologies.
+Skills and Experience
 
-Games Development_______!
-* ✔ C#
-* ♡ Unity 2D & 3D
+#Web Development
 
-Web Development_________!
-* ⚛ React
-* 📱 React Native
-* 💻 HTML , CSS , JS
+    ⚛️ React (including React Native)
+    🌐 HTML, CSS, JavaScript
+    🛠 Laravel, Livewire, Filament, Tailwind CSS
+
+#Mobile Development
+
+    📱 React Native
+
+#Game Development
+
+    ✔️ C#
+    ♡ Unity 2D & 3D
+
+#Recent Focus
+
+Currently, I'm deeply engaged in Laravel development, utilizing Livewire, Filament, and Tailwind CSS to create robust, functional applications. I thrive on learning new languages and frameworks to enhance my skills continuously.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuddraNickBiswas)](https://github.com/anuraghazra/github-readme-stats)
